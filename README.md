@@ -19,10 +19,10 @@ This matrix serves as a centralized resource for:
 |----|---------------------------|----------------|---------------------------------------------------|
 | 1  | MuddyWater               | Iran           | [MuddyWater Profile](./matrix_data/MuddyWater/data.md) |
 | 2  | OilRig (APT34)           | Iran           | [OilRig Profile](./matrix_data/OilRig/data.md)         |
-| 3  | Cozy Bear (APT29)        | Russia         | [Cozy Bear Profile](./matrix_data/CozyBear/data.md)    |
+| 3  | Charming Kitten (APT35)  | Iran           | [Charming Kitten Profile](./matrix_data/CharmingKitten/data.md) |
 | 4  | Earth Baku (APT41)       | China          | [Earth Baku Profile](./matrix_data/EarthBaku/data.md)  |
 | 5  | Fancy Bear (APT28)       | Russia         | [Fancy Bear Profile](./matrix_data/FancyBear/data.md)  |
-| 6  | APT35 (Charming Kitten)  | Iran           | [APT35 Profile](./matrix_data/APT35/data.md)           |
+| 6  | Cozy Bear (APT29)        | Russia         | [Cozy Bear Profile](./matrix_data/CozyBear/data.md)    |
 
 ## Repository Structure
 
@@ -48,7 +48,7 @@ Each APT group profile in `matrix_data/` follows a standardized format for consi
 
 ## Future Development
 
-While the current focus is on Middle Eastern APT groups, the goal is to incrementally expand this matrix to cover APTs from other regions, enhancing its value as a global OSINT resource. Contributions to this project are welcome to help achieve this vision.
+While the current focus is on Middle Eastern APT groups, the goal is to incrementally expand this matrix to cover APTs from other regions, enhancing its value as a global OSINT resource. 
 
 ## Acknowledgments
 
