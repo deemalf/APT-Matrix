@@ -1,109 +1,95 @@
 # MuddyWater
 
+*Last Updated: November 21, 2024*
+
 ## 1. Basic Information
 - **First Seen**: 2017
 - **Source Country**: Iran
 - **Threat Actor Type**: Nation-State Sponsored
 - **Linked Organization**: Ministry of Intelligence and Security (MOIS)
 
-## 2. Aliases
-| Alias         | Organization                                          |
-|---------------|-------------------------------------------------------|
-| MuddyWater    | Check Point, Cisco Talos Intelligence, Clearsky Security |
-| Seedworm      | Symantec                                              |
-| TEMP.Zagros   | FireEye (Mandiant)                                    |
-| Static Kitten | CrowdStrike                                           |
-| Mango Sandstorm | Microsoft                                           |
-| TA450         | Proofpoint                                            |
-| Cobalt Ulster | SecureWorks                                           |
-| ATK 51        | Thales                                                |
-| T-APT-14      | Tencent                                               |
-| ITG17         | IBM                                                   |
-| Yellow Nix    | PwC                                                   |
-| Mercury       | formerly used by Microsoft                            |
-| NTSTATS       | N/A                                                   |
-| POWERSTATS    | N/A                                                   |
-| SectorD02     | N/A                                                   |
-
-## 3. Targeting
-- **Targeted Countries**: Afghanistan, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Egypt, Georgia, India, Iran, Israel, Jordan, Kuwait, Laos, Lebanon, Mali, Netherlands, Oman, Pakistan, Portugal, Qatar, Russia, Saudi Arabia, Sudan, Tajikistan, Tanzania, Thailand, Tunisia, Turkey, UAE, Ukraine, USA
-- **Targeted Sectors**: 
-  - Aviation
-  - Defense
-  - Education
-  - Energy
-  - Financial
-  - Food & Agriculture
-  - Gaming
-  - Government
-  - Healthcare
-  - High-Tech
-  - IT
-  - Media
-  - NGOs
-  - Oil & Gas
-  - Shipping & Logistics
-  - Telecommunications
-  - Transportation
-- **Objective**: Intelligence Gathering, Espionage, Information Theft
-- **Motivation**: State-Sponsored
-
 ## 4. Description
 MuddyWater is a cyber espionage group assessed to be state-sponsored by Iran’s Ministry of Intelligence and Security (MOIS). Active since 2017, it predominantly targets Middle Eastern countries, employing a variety of TTPs to achieve intelligence gathering and espionage objectives.
 
+## 2. Aliases
+| Alias               | Organization                                          |
+|---------------------|-------------------------------------------------------|
+| MuddyWater          | Check Point, Cisco Talos Intelligence, MITRE, Clearsky Security |
+| Seedworm            | [Symantec](https://www.security.com/threat-intelligence/seedworm-espionage-group) |
+| TEMP.Zagros         | [FireEye (Mandiant)](https://cloud.google.com/blog/topics/threat-intelligence/iranian-threat-group-updates-ttps-in-spear-phishing-campaign) |
+| Static Kitten       | [CrowdStrike](https://www.crowdstrike.com/adversaries/static-kitten/) |
+| Mango Sandstorm     | [Microsoft](https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming) |
+| Boggy Serpens       | [Palo Alto Networks (Unit42)](https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/) |
+| TA450               | [Proofpoint](https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta450-uses-embedded-links-pdf-attachments-latest-campaign)                                            |
+| Cobalt Ulster       | [SecureWorks](https://www.secureworks.com/research/threat-profiles/cobalt-ulster) |
+| ATK 51              | [Thales](https://cds.thalesgroup.com/en/node/675) |
+| T-APT-14            | Tencent                                               |
+| ITG17               | [IBM](https://exchange.xforce.ibmcloud.com/threat-group/guid:95d4aadc7e81451dbe784905c2a22cb1) |
+| Yellow Nix          | [PwC](https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/muddy-advanced-persistent-teacher.html) |
+| Mercury             | [formerly used by Microsoft](https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming) |
+| NTSTATS             | N/A                                                   |
+| POWERSTATS          | N/A                                                   |
+| SectorD02           | N/A                                                   |
+
+## 3. Targeting
+- **Targeted Countries**: Afghanistan, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Egypt, Georgia, India, Iran, Israel, Jordan, Kuwait, Laos, Lebanon, Mali, Netherlands, Oman, Pakistan, Portugal, Qatar, Russia, Saudi Arabia, Sudan, Tajikistan, Tanzania, Thailand, Tunisia, Turkey, UAE, Ukraine, USA
+- **Targeted Sectors**: Aviation, Defense, Education, Energy, Financial, Food & Agriculture, Gaming, Government, Healthcare, High-Tech, IT, Media, NGOs, Oil & Gas, Shipping & Logistics, Telecommunications, Transportation
+- **Objective**: Intelligence Gathering, Espionage, Information Theft
+- **Motivation**: State-Sponsored
+
 ## 5. Tools Used
-| Tool Name               | Type                                                                                                                                                          |
-|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| BugSleep                | Malware, Backdoor                                                                                                                                             |
-| ChromeCookiesView       | Tool, Reconnaissance, Info stealer                                                                                                                            |
-| chrome-passwords        | Malware, Credential stealer                                                                                                                                   |
-| CLOUDSTATS              | Malware, Backdoor                                                                                                                                             |
-| Cobalt Strike           | Tool, Backdoor, Vulnerability scanner, Keylogger, Tunneling, Loader, Exfiltration                                                                             |
-| CrackMapExec            | Tool, Vulnerability scanner                                                                                                                                   |
-| DELPHSTATS              | Malware, Backdoor                                                                                                                                             |
-| EmpireProject           | Tool, Backdoor                                                                                                                                                |
-| FruityC2                | Tool, Backdoor                                                                                                                                                |
-| Koadic                  | Backdoor, Vulnerability scanner, Loader                                                                                                                       |
-| LaZagne                 | Credential stealer                                                                                                                                            |
-| Meterpreter             | Loader                                                                                                                                                        |
-| Mimikatz                | Credential stealer, Keylogger                                                                                                                                 |
-| MuddyC2Go               | Backdoor                                                                                                                                                      |
-| Mudwater                | Reconnaissance, Backdoor, Exfiltration, Downloader                                                                                                            |
-| MZCookiesView           | Reconnaissance, Info stealer                                                                                                                                  |
-| PhonyC2                 | Backdoor                                                                                                                                                      |
-| Powermud                | Backdoor, Tunneling                                                                                                                                           |
-| PowerSploit             | Reconnaissance, Backdoor, Info stealer, Exfiltration                                                                                                          |
-| POWERSTATS              | Backdoor                                                                                                                                                      |
-| PowGoop                 | Loader                                                                                                                                                        |
-| PRB-Backdoor            | Backdoor                                                                                                                                                      |
-| QUADAGENT               | Backdoor, Tunneling                                                                                                                                           |
-| Secure Socket Funneling | Tunneling, Remote command                                                                                                                                     |
-| SHARPSTATS              | Backdoor, Info stealer                                                                                                                                        |
-| Shootback               | Backdoor, Tunneling                                                                                                                                           |
-| Smbmap                  | Reconnaissance                                                                                                                                                |
-| Living off the Land     | Technique, Execution, Persistence, Privilege Escalation, Lateral Movement, Defense Evasion, Credential Dumping, Fileless Attack, Data Collection, Exfiltration, Remote Command Execution |
+| Tool Name                    | Type                                                                                    |
+|------------------------------|-----------------------------------------------------------------------------------------|
+| BugSleep                     | Malware, Backdoor                                                                       |
+| ChromeCookiesView            | Tool, Reconnaissance, Info stealer                                                      |
+| chrome-passwords             | Malware, Credential stealer                                                             |
+| CLOUDSTATS                   | Malware, Backdoor                                                                       |
+| Cobalt Strike                | Tool, Backdoor, Vulnerability scanner, Keylogger, Tunneling, Loader, Exfiltration       |
+| CrackMapExec                 | Tool, Vulnerability scanner                                                             |
+| DELPHSTATS                   | Malware, Backdoor                                                                       |
+| EmpireProject                | Tool, Backdoor                                                                          |
+| FruityC2                     | Tool, Backdoor                                                                          |
+| Koadic                       | Backdoor, Vulnerability scanner, Loader                                                 |
+| LaZagne                      | Credential stealer                                                                      |
+| Meterpreter                  | Loader                                                                                  |
+| Mimikatz                     | Credential stealer, Keylogger                                                           |
+| MuddyC2Go                    | Backdoor                                                                                |
+| Mudwater                     | Reconnaissance, Backdoor, Exfiltration, Downloader                                      |
+| MZCookiesView                | Reconnaissance, Info stealer                                                            |
+| PhonyC2                      | Backdoor                                                                                |
+| Powermud                     | Backdoor, Tunneling                                                                     |
+| PowerSploit                  | Reconnaissance, Backdoor, Info stealer, Exfiltration                                    |
+| POWERSTATS                   | Backdoor                                                                                |
+| PowGoop                      | Loader                                                                                  |
+| PRB-Backdoor                 | Backdoor                                                                                |
+| QUADAGENT                    | Backdoor, Tunneling                                                                     |
+| Secure Socket Funneling      | Tunneling, Remote command                                                               |
+| SHARPSTATS                   | Backdoor, Info stealer                                                                  |
+| Shootback                    | Backdoor, Tunneling                                                                     |
+| Smbmap                       | Reconnaissance                                                                          |
+| Living off the Land          | Technique, Execution, Persistence, Privilege Escalation, Lateral Movement, Defense Evasion, Credential Dumping, Fileless Attack, Data Collection, Exfiltration, Remote Command Execution |
 
 
 ## 6. Exploited Vulnerabilities
-| CVE              | CVSS Score      | Description                                                           |
-|------------------|-----------------|-----------------------------------------------------------------------|
-| CVE-2023-27350   | 9.8 (Critical)  | PaperCut MF/NG Improper Access Control Vulnerability                  |
-| CVE-2021-45046   | 9.0 (Critical)  | Apache Log4j2 Remote Code Execution Vulnerability                     |
-| CVE-2021-44228   | 10.0 (Critical) | Apache Log4j2 Remote Code Execution Vulnerability                     |
-| CVE-2020-1472    | 10.0 (Critical) | Netlogon Elevation of Privilege Vulnerability                         |
-| CVE-2020-0688    | 8.8 (High)      | Microsoft Exchange Validation Key Remote Code Execution Vulnerability |
-| CVE-2017-0199    | 7.8 (High)      | Microsoft Office/WordPad Remote Code Execution Vulnerability          |
+| CVE                | CVSS Score      | Description                                                           |
+|--------------------|-----------------|-----------------------------------------------------------------------|
+| [CVE-2023-27350](https://nvd.nist.gov/vuln/detail/CVE-2023-27350)   | 9.8 (Critical)  | PaperCut MF/NG Improper Access Control Vulnerability                  |
+| [CVE-2021-45046](https://nvd.nist.gov/vuln/detail/CVE-2021-45046)   | 9.0 (Critical)  | Apache Log4j2 Remote Code Execution Vulnerability                     |
+| [CVE-2021-44228](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)   | 10.0 (Critical) | Apache Log4j2 Remote Code Execution Vulnerability                     |
+| [CVE-2020-1472](https://nvd.nist.gov/vuln/detail/CVE-2020-1472)     | 10.0 (Critical) | Netlogon Elevation of Privilege Vulnerability                         |
+| [CVE-2020-0688](https://nvd.nist.gov/vuln/detail/CVE-2020-0688)     | 8.8 (High)      | Microsoft Exchange Validation Key Remote Code Execution Vulnerability |
+| [CVE-2017-0199](https://nvd.nist.gov/vuln/detail/CVE-2017-0199)     | 7.8 (High)      | Microsoft Office/WordPad Remote Code Execution Vulnerability          |
 
 ## 7. Campaigns
-| Name                  | Curated Card                                           |
-|-----------------------|--------------------------------------------------------|
-| **Earth Vetala**      | **Overview**: Earth Vetala Cyberespionage Campaign targeting multiple sectors. |
-| **BlackWater**        | **Overview**: BLACKWATER Cyberespionage Campaign focused on Middle Eastern countries. |
-| **Operation Quicksand** | **Overview**: Operation targeting government and military organizations in the Middle East. |
-| **ShroudedSnooper**   | **Overview**: Campaign focused on disguising operations through covert channels. |
+| Name                    | Overview                                               |
+|-------------------------|--------------------------------------------------------|
+| **Earth Vetala**        | Earth Vetala Cyberespionage Campaign targeting multiple sectors. |
+| **BlackWater**          | BLACKWATER Cyberespionage Campaign focused on Middle Eastern countries. |
+| **Operation Quicksand** | Operation targeting government and military organizations in the Middle East. |
+| **ShroudedSnooper**     | Campaign focused on disguising operations through covert channels. |
 
 ## 8. TTP Matrix
-Please refer to the [TTP Matrix URL](URL to matrix).
+Please refer to Muddywater's [TTP Matrix here.](https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG0069%2FG0069-enterprise-layer.json).
 
 ## 9. Patterns and Observed Behaviors
 - **Activity Patterns**: Timing of attacks often coincides with regional geopolitical events.
