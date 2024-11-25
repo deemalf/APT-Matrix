@@ -8,10 +8,10 @@
 - **Threat Actor Type**: Nation-State Sponsored
 - **Linked Organization**: Ministry of Intelligence and Security (MOIS)
 
-## 4. Description
+## 2. Description
 MuddyWater is a cyber espionage group assessed to be state-sponsored by Iran’s Ministry of Intelligence and Security (MOIS). Active since 2017, it predominantly targets Middle Eastern countries, employing a variety of TTPs to achieve intelligence gathering and espionage objectives.
 
-## 2. Aliases
+## 3. Aliases
 | Alias               | Organization                                          |
 |---------------------|-------------------------------------------------------|
 | MuddyWater          | Check Point, Cisco Talos Intelligence, MITRE, Clearsky Security |
@@ -31,7 +31,7 @@ MuddyWater is a cyber espionage group assessed to be state-sponsored by Iran’s
 | POWERSTATS          | N/A                                                   |
 | SectorD02           | N/A                                                   |
 
-## 3. Targeting
+## 4. Targeting
 - **Targeted Countries**: Afghanistan, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Egypt, Georgia, India, Iran, Israel, Jordan, Kuwait, Laos, Lebanon, Mali, Netherlands, Oman, Pakistan, Portugal, Qatar, Russia, Saudi Arabia, Sudan, Tajikistan, Tanzania, Thailand, Tunisia, Turkey, UAE, Ukraine, USA
 - **Targeted Sectors**: Aviation, Defense, Education, Energy, Financial, Food & Agriculture, Gaming, Government, Healthcare, High-Tech, IT, Media, NGOs, Oil & Gas, Shipping & Logistics, Telecommunications, Transportation
 - **Objective**: Intelligence Gathering, Espionage, Information Theft
@@ -81,12 +81,12 @@ MuddyWater is a cyber espionage group assessed to be state-sponsored by Iran’s
 | [CVE-2017-0199](https://nvd.nist.gov/vuln/detail/CVE-2017-0199)     | 7.8 (High)      | Microsoft Office/WordPad Remote Code Execution Vulnerability          |
 
 ## 7. Campaigns
-| Name                    | Overview                                               |
-|-------------------------|--------------------------------------------------------|
-| **Earth Vetala**        | Earth Vetala Cyberespionage Campaign targeting multiple sectors. |
-| **BlackWater**          | BLACKWATER Cyberespionage Campaign focused on Middle Eastern countries. |
-| **Operation Quicksand** | Operation targeting government and military organizations in the Middle East. |
-| **ShroudedSnooper**     | Campaign focused on disguising operations through covert channels. |
+| Name                    | Overview                                               | References                           |
+|-------------------------|--------------------------------------------------------|--------------------------------------|
+| **Earth Vetala**        | Earth Vetala Cyberespionage Campaign targeting multiple sectors. |[1](https://www.trendmicro.com/en_us/research/21/c/earth-vetala---muddywater-continues-to-target-organizations-in-t.html), [2](https://www.anomali.com/blog/probable-iranian-cyber-actors-static-kitten-conducting-cyberespionage-campaign-targeting-uae-and-kuwait-government-agencies)                    |
+| **BlackWater**          | BLACKWATER Cyberespionage Campaign focused on Middle Eastern countries. |[1](https://blog.talosintelligence.com/recent-muddywater-associated-blackwater/)             |
+| **Operation Quicksand** | Targeting government and military organizations in the Middle East. | [1](https://www.clearskysec.com/wp-content/uploads/2020/10/Operation-Quicksand.pdf), [2](https://unit42.paloaltonetworks.com/thanos-ransomware/)                        |
+| **ShroudedSnooper**     | Campaign focused on disguising operations through covert channels. | [1](https://blog.talosintelligence.com/introducing-shrouded-snooper/)                         |
 
 ## 8. TTP Matrix
 Please refer to Muddywater's [TTP Matrix here.](https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG0069%2FG0069-enterprise-layer.json).
