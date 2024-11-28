@@ -138,91 +138,91 @@ Also listed at [MITRE.](https://attack.mitre.org/groups/G0049/#:~:text=machines.
 
 This reference list features news reporting, actionable intelligence, detailed analysis reports, and in-depth research.
 
+
 ### 2024
 
-- **October 11, 2024** – Trend Micro: [Earth Simnavaz (aka APT34) Levies Advanced Cyberattacks Against UAE and Gulf Regions](https://www.trendmicro.com/en_us/research/24/j/earth-simnavaz-aka-apt34-levies-advanced-cyberattacks-against-uae-and-gulf-regions.html)
-- **September 19, 2024** – Mandiant: [UNC1860 and the Temple of Oats: Iran's Hidden Hand in Middle Eastern Networks](https://www.mandiant.com/resources/unc1860-and-the-temple-of-oats)
-- **September 11, 2024** – Check Point Research: [Targeted Iranian Attacks Against Iraqi Government Infrastructure](https://research.checkpoint.com/2024/targeted-iranian-attacks-against-iraqi-government-infrastructure/)
-- **May 20, 2024** – Check Point Research: [Bad Karma, No Justice: Void Manticore Destructive Activities in Israel](https://research.checkpoint.com/2024/bad-karma-no-justice-void-manticore-destructive-activities-in-israel/)
+- **October 11, 2024** – **Trend Micro**: [Earth Simnavaz (aka APT34) Levies Advanced Cyberattacks Against UAE and Gulf Regions](https://www.trendmicro.com/en_us/research/24/j/earth-simnavaz-cyberattacks-uae-gulf-regions.html)
+- **September 19, 2024** – **Mandiant**: [UNC1860 and the Temple of Oats: Iran's Hidden Hand in Middle Eastern Networks](https://cloud.google.com/blog/topics/threat-intelligence/unc1860-iran-middle-eastern-networks/)
+- **September 11, 2024** – **Check Point Research**: [Targeted Iranian Attacks Against Iraqi Government Infrastructure](https://research.checkpoint.com/2024/iranian-malware-attacks-iraqi-government/)
+- **May 20, 2024** – **Check Point Research**: [Bad Karma, No Justice: Void Manticore Destructive Activities in Israel](https://research.checkpoint.com/2024/bad-karma-no-justice-void-manticore-destructive-activities-in-israel/)
 
 ### 2023
 
-- **December 20, 2023** – Security Scorecard: [A detailed analysis of the Menorah malware used by APT34](https://securityscorecard.com/blog/menorah-malware-analysis)
-- **December 14, 2023** – ESET: [OilRig’s persistent attacks using cloud service-powered downloaders](https://www.eset.com/int/oilrigs-persistent-attacks/)
-- **October 31, 2023** – Check Point Research: [From Albania to the Middle East: The Scarred Manticore is Listening](https://research.checkpoint.com/2023/from-albania-to-the-middle-east-the-scarred-manticore-is-listening/)
-- **October 19, 2023** – Symantec: [Crambus: New Campaign Targets Middle Eastern Government](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/crambus-apt34)
-- **September 29, 2023** – Trend Micro: [APT34 Deploys Phishing Attack With New Malware](https://www.trendmicro.com/en_us/research/23/i/apt34-deploys-phishing-attack-with-new-malware.html)
-- **September 21, 2023** – ESET: [OilRig’s Outer Space and Juicy Mix: Same ol’ rig, new drill pipes](https://www.welivesecurity.com/2023/09/21/oilrigs-outer-space-juicy-mix/)
-- **August 30, 2023** – NSFOCUS: [APT34 Unleashes New Wave of Phishing Attack with Variant of SideTwist Trojan](https://nsfocusglobal.com/apt34-phishing-attack-sidetwist/)
-- **May 09, 2023** – ESET: [ESET APT Activity Report Q4 2022–Q1 2023](https://www.eset.com/int/eset-apt-activity-report-q4-2022-q1-2023/) (PDF)
-- **May 08, 2023** – Kaspersky: [Kaspersky experts warn of increased IT supply chain attacks by OilRig APT in the Middle East and Turkiye](https://www.kaspersky.com/about/press-releases/2023_oilrig-apt-middle-east-turkiye)
-- **February 02, 2023** – Trend Micro: [New APT34 Malware Targets The Middle East](https://www.trendmicro.com/en_us/research/23/b/new-apt34-malware-targets-the-middle-east.html)
+- **December 20, 2023** – **Security Scorecard**: [A detailed analysis of the Menorah malware used by APT34](https://securityscorecard.com/research/a-detailed-analysis-of-the-menorah-malware-used-by-apt34/)
+- **December 14, 2023** – **ESET**: [OilRig’s persistent attacks using cloud service-powered downloaders](https://www.welivesecurity.com/en/eset-research/oilrig-persistent-attacks-cloud-service-powered-downloaders/)
+- **October 31, 2023** – **Check Point Research**: [From Albania to the Middle East: The Scarred Manticore is Listening](https://research.checkpoint.com/2023/from-albania-to-the-middle-east-the-scarred-manticore-is-listening/) (AFFILIATED WITH MOIS)
+- **October 19, 2023** – **Symantec**: [Crambus: New Campaign Targets Middle Eastern Government](https://symantec-enterprise-blogs.security.com/threat-intelligence/crambus-middle-east-government)
+- **September 29, 2023** – **Trend Micro**: [APT34 Deploys Phishing Attack With New Malware](https://www.trendmicro.com/en_us/research/23/i/apt34-deploys-phishing-attack-with-new-malware.html)
+- **September 21, 2023** – **ESET**: [OilRig’s Outer Space and Juicy Mix: Same ol’ rig, new drill pipes](https://www.welivesecurity.com/en/eset-research/oilrigs-outer-space-juicy-mix-same-ol-rig-new-drill-pipes/)
+- **August 30, 2023** – **NSFOCUS**: [APT34 Unleashes New Wave of Phishing Attack with Variant of SideTwist Trojan](https://nsfocusglobal.com/apt34-unleashes-new-wave-of-phishing-attack-with-variant-of-sidetwist-trojan/)
+- **May 09, 2023** – **ESET**: [ESET APT Activity Report Q4 2022–Q1 2023](https://www.welivesecurity.com/2023/05/09/eset-apt-activity-report-q42022-q12023/), specifically on page 8 in [PDF](https://web-assets.esetstatic.com/wls/2023/05/eset_apt_activity_report_q42022_q12023.pdf)
+- **May 08, 2023** – **Kaspersky**: [Kaspersky experts warn of increased IT supply chain attacks by OilRig APT in the Middle East and Turkiye](https://me-en.kaspersky.com/about/press-releases/kaspersky-experts-warn-of-increased-it-supply-chain-attacks-by-oilrig-apt-in-the-middle-east-and-turkiye)
+- **February 02, 2023** – **Trend Micro**: [New APT34 Malware Targets The Middle East](https://www.trendmicro.com/en_us/research/23/b/new-apt34-malware-targets-the-middle-east.html)
 
 ### 2022
 
-- **September 08, 2022** – Microsoft: [Microsoft investigates Iranian attacks against the Albanian government](https://www.microsoft.com/security/blog/2022/09/08/microsoft-investigates-iranian-attacks-against-the-albanian-government/)
-- **May 10, 2022** – Malwarebytes: [APT34 targets Jordan Government using new Saitama backdoor](https://blog.malwarebytes.com/threat-intelligence/2022/05/apt34-targets-jordan-government-using-new-saitama-backdoor/)
+- **September 08, 2022** – **Microsoft**: [Microsoft investigates Iranian attacks against the Albanian government](https://www.microsoft.com/en-us/security/blog/2022/09/08/microsoft-investigates-iranian-attacks-against-the-albanian-government/) (ATTRIBUTION TO MOIS)
+- **May 10, 2022** – **Malwarebytes**: [APT34 targets Jordan Government using new Saitama backdoor](https://www.threatdown.com/blog/apt34-targets-jordan-government-using-new-saitama-backdoor/)
 
 ### 2021
 
-- **October 18, 2021** – Kaspersky: [Lyceum group reborn](https://securelist.com/lyceum-group-reborn/104785/)
-- **April 08, 2021** – Check Point Research: [Iran’s APT34 Returns with an Updated Arsenal](https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/)
+- **October 18, 2021** – **Kaspersky**: [Lyceum group reborn](https://securelist.com/lyceum-group-reborn/104586/)
+- **April 08, 2021** – **Check Point Research**: [Iran’s APT34 Returns with an Updated Arsenal](https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/)
 
 ### 2020
 
-- **July 22, 2020** – Unit 42: [OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory](https://unit42.paloaltonetworks.com/oilrig-new-c2-steganography/)
-- **May 19, 2020** – Symantec: [Sophisticated Espionage Group Turns Attention to Telecom Providers in South Asia](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-telecom-south-asia)
-- **March 02, 2020** – Telsy: [APT34 (aka OilRig, aka Helix Kitten) attacks Lebanon government entities with MailDropper implants](https://www.telsy.com/apt34-attacks-lebanon-government/)
-- **January 30, 2020** – Intezer: [New Iranian Campaign Tailored to US Companies Utilizes an Updated Toolset](https://www.intezer.com/blog/malware-analysis/new-iranian-campaign-tailored-to-us-companies-utilizes-an-updated-toolset/)
+- **July 22, 2020** – **Unit 42**: [OilRig Targets Middle Eastern Telecommunications Organization and Adds Novel C2 Channel with Steganography to Its Inventory](https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/)
+- **May 19, 2020** – **Symantec**: [Sophisticated Espionage Group Turns Attention to Telecom Providers in South Asia](https://symantec-enterprise-blogs.security.com/threat-intelligence/greenbug-espionage-telco-south-asia)
+- **March 02, 2020** – **Telsy**: [APT34 (aka OilRig, aka Helix Kitten) attacks Lebanon government entities with MailDropper implants](https://www.telsy.com/en/apt34-aka-oilrig-attacks-lebanon-government-entities-with-maildropper-implant/)
+- **January 30, 2020** – **Intezer**: [New Iranian Campaign Tailored to US Companies Utilizes an Updated Toolset](https://intezer.com/blog/research/new-iranian-campaign-tailored-to-us-companies-uses-updated-toolset/)
 
 ### 2019
 
-- **December 17, 2019** – Kaspersky: [OilRig’s Poison Frog – old samples, same trick](https://securelist.com/oilrigs-poison-frog/95432/)
-- **December 04, 2019** – IBM: [New Destructive Wiper ZeroCleare Targets Energy Sector in the Middle East](https://securityintelligence.com/posts/new-destructive-wiper-zerocleare-targets-energy-sector-in-the-middle-east/)
-- **November 09, 2019** – NSFOCUS: [APT34 Event Analysis Report](https://nsfocusglobal.com/apt34-event-analysis-report/)
-- **October 21, 2019** – National Security Agency: [Turla Group Exploits Iranian APT To Expand Coverage Of Victims](https://media.defense.gov/2019/Oct/21/2002192845/-1/-1/0/NSA-CYBERSECURITY-ADVISORY-TURLA-GROUP-EXPLOITS-IRANIAN-APT.PDF) (PDF)
-- **August 27, 2019** – Secureworks: [LYCEUM Takes Center Stage in Middle East Campaign](https://www.secureworks.com/research/lyceum-takes-center-stage-in-middle-east-campaign)
-- **July 18, 2019** – FireEye: [Hard Pass: Declining APT34's Invite to Join Their Professional Network](https://www.fireeye.com/blog/threat-research/2019/07/apt34-invite-to-join-professional-network.html)
-- **July 16, 2019** – BGD e-GOV CIRT: [DNSPIONAGE – Focus on Internal Actions](https://www.cirt.gov.bd/dnspionage-focus-on-internal-actions/)
-- **May 15, 2019** – Proofpoint: [Threat Actor Profile: TA542, From Banker to Malware Distribution Service](https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta542-banker-malware-distribution-service)
-- **May 06, 2019** – NSFOCUS: [Analysis of File Disclosure by APT34](https://nsfocusglobal.com/analysis-of-file-disclosure-by-apt34/)
-- **April 30, 2019** – Unit 42: [Behind the Scenes with OilRig](https://unit42.paloaltonetworks.com/behind-the-scenes-with-oilrig/)
-- **April 16, 2019** – Unit 42: [DNS Tunneling in the Wild: Overview of OilRig’s DNS Tunneling](https://unit42.paloaltonetworks.com/dns-tunneling-in-the-wild-overview-of-oilrigs-dns-tunneling/)
+- **December 17, 2019** – **Kaspersky**: [OilRig’s Poison Frog – old samples, same trick](https://securelist.com/oilrigs-poison-frog/95490/)
+- **December 04, 2019** – **IBM**: [New Destructive Wiper ZeroCleare Targets Energy Sector in the Middle East](https://securityintelligence.com/posts/new-destructive-wiper-zerocleare-targets-energy-sector-in-the-middle-east/)
+- **November 09, 2019** – **NSFOCUS**: [APT34 Event Analysis Report](https://nsfocusglobal.com/apt34-event-analysis-report/)
+- **October 21, 2019** – **National Security Agency**: [Turla Group Exploits Iranian APT To Expand Coverage Of Victims](https://media.defense.gov/2019/Oct/18/2002197242/-1/-1/0/NSA_CSA_TURLA_20191021%20VER%203%20-%20COPY.PDF) (PDF)
+- **August 27, 2019** – **Secureworks**: [LYCEUM Takes Center Stage in Middle East Campaign](https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign)
+- **July 18, 2019** – **FireEye**: [Hard Pass: Declining APT34's Invite to Join Their Professional Network](https://cloud.google.com/blog/topics/threat-intelligence/hard-pass-declining-apt34-invite-to-join-their-professional-network/)
+- **July 16, 2019** – **BGD e-GOV CIRT**: [[DNSPIONAGE] – FOCUS ON INTERNAL ACTIONS](https://www.cirt.gov.bd/dnspionage-focus-on-internal-actions/)
+- **May 15, 2019** – **Proofpoint**: [Threat Actor Profile: TA542, From Banker to Malware Distribution Service](https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta542-banker-malware-distribution-service)
+- **May 06, 2019** – **NSFOCUS**: [Analysis of File Disclosure by APT34](https://nsfocusglobal.com/analysis-of-file-disclosure-by-apt34/)
+- **April 30, 2019** – **Unit 42**: [Behind the Scenes with OilRig](https://unit42.paloaltonetworks.com/behind-the-scenes-with-oilrig/)
+- **April 16, 2019** – **Unit 42**: [DNS Tunneling in the Wild: Overview of OilRig’s DNS Tunneling](https://unit42.paloaltonetworks.com/dns-tunneling-in-the-wild-overview-of-oilrigs-dns-tunneling/)
 
 ### 2018
 
-- **November 27, 2018** – Cisco Talos: [DNSpionage Campaign Targets Middle East](https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html)
-- **November 16, 2018** – Unit 42: [Analyzing OilRig's Ops Tempo from Testing to Weaponization to Delivery](https://unit42.paloaltonetworks.com/analyzing-oilrigs-ops-tempo-from-testing-to-weaponization-to-delivery/)
-- **September 12, 2018** – Unit 42: [OilRig Uses Updated BONDUPDATER to Target Middle Eastern Government](https://unit42.paloaltonetworks.com/oilrig-uses-updated-bondupdater-to-target-middle-eastern-government/)
-- **September 04, 2018** – Unit 42: [OilRig targets a Middle Eastern Government and Adds Evasion Techniques to OopsIE](https://unit42.paloaltonetworks.com/oilrig-targets-a-middle-eastern-government-and-adds-evasion-techniques-to-oopsie/)
-- **July 25, 2018** – Unit 42: [OilRig Targets Technology Service Provider and Government Agency with QUADAGENT](https://unit42.paloaltonetworks.com/oilrig-targets-technology-service-provider-and-government-agency-with-quadagent/)
-- **February 23, 2018** – Unit 42: [OopsIE! OilRig Uses ThreeDollars to Deliver New Trojan](https://unit42.paloaltonetworks.com/oopsie-oilrig-uses-threedollars-deliver-new-trojan/)
-- **February 23, 2018** – Booz Allen: [Researchers Discover New Variants of APT34 Malware](https://www.boozallen.com/s/insight/publication/researchers-discover-new-variants-of-apt34-malware.html)
-- **January 25, 2018** – Unit 42: [OilRig uses RGDoor IIS Backdoor on Targets in the Middle East](https://unit42.paloaltonetworks.com/oilrig-uses-rgdoor-iis-backdoor-targets-middle-east/)
+- **November 27, 2018** – **Cisco Talos**: [DNSpionage Campaign Targets Middle East](https://blog.talosintelligence.com/dnspionage-campaign-targets-middle-east/) (attributed by FireEye on July 18, 2019)
+- **November 16, 2018** – **Unit 42**: [Analyzing OilRig's Ops Tempo from Testing to Weaponization to Delivery](https://unit42.paloaltonetworks.com/unit42-analyzing-oilrigs-ops-tempo-testing-weaponization-delivery/)
+- **September 12, 2018** – **Unit 42**: [OilRig Uses Updated BONDUPDATER to Target Middle Eastern Government](https://unit42.paloaltonetworks.com/unit42-oilrig-uses-updated-bondupdater-target-middle-eastern-government/)
+- **September 04, 2018** – **Unit 42**: [OilRig targets a Middle Eastern Government and Adds Evasion Techniques to OopsIE](https://unit42.paloaltonetworks.com/unit42-oilrig-targets-middle-eastern-government-adds-evasion-techniques-oopsie/)
+- **July 25, 2018** – **Unit 42**: [OilRig Targets Technology Service Provider and Government Agency with QUADAGENT](https://unit42.paloaltonetworks.com/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/)
+- **February 23, 2018** – **Unit 42**: [OopsIE! OilRig Uses ThreeDollars to Deliver New Trojan](https://unit42.paloaltonetworks.com/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/)
+- **February 23, 2018** – **Booz Allen**: [Researchers Discover New variants of APT34 Malware](https://www.boozallen.com/s/insight/blog/dark-labs-discovers-apt34-malware-variants.html)
+- **January 25, 2018** – **Unit 42**: [OilRig uses RGDoor IIS Backdoor on Targets in the Middle East](https://unit42.paloaltonetworks.com/unit42-oilrig-uses-rgdoor-iis-backdoor-targets-middle-east/)
 
 ### 2017
 
-- **December 15, 2017** – Unit 42: [Introducing the Adversary Playbook: First up, OilRig](https://unit42.paloaltonetworks.com/introducing-adversary-playbook-first-oilrig/)
-- **December 11, 2017** – Unit 42: [OilRig Performs Tests on the TwoFace Webshell](https://unit42.paloaltonetworks.com/oilrig-performs-tests-twoface-webshell/)
-- **December 07, 2017** – FireEye: [New Targeted Attack in the Middle East by APT34, a Suspected Iranian Threat Group, Using CVE-2017-11882 Exploit](https://www.fireeye.com/blog/threat-research/2017/12/apt34-targeted-attack-in-middle-east-using-cve-2017-11882.html)
-- **November 08, 2017** – Unit 42: [OilRig Deploys “ALMA Communicator” – DNS Tunneling Trojan](https://unit42.paloaltonetworks.com/oilrig-deploys-alma-communicator-dns-tunneling-trojan/)
-- **October 24, 2017** – ClearSky: [Iranian Threat Agent Greenbug Impersonates Israeli High-Tech and Cyber Security Companies](https://www.clearskysec.com/greenbug/)
-- **October 09, 2017** – Unit 42: [OilRig Group Steps Up Attacks with New Delivery Documents and New Injector Trojan](https://unit42.paloaltonetworks.com/oilrig-group-steps-attacks-new-delivery-documents-new-injector-trojan/)
-- **September 26, 2017** – Unit 42: [Striking Oil: A Closer Look at Adversary Infrastructure](https://unit42.paloaltonetworks.com/striking-oil-closer-look-adversary-infrastructure/)
-- **August 28, 2017** – ClearSky: [Recent ISMAgent Samples and Infrastructure by Iranian Threat Group GreenBug](https://www.clearskysec.com/recent-ismagent-samples/)
-- **July 27, 2017** – Unit 42: [OilRig Uses ISMDoor Variant; Possibly Linked to Greenbug Threat Group](https://unit42.paloaltonetworks.com/oilrig-uses-ismdoor-variant-possibly-linked-greenbug-threat-group/)
-- **July 27, 2017** – Secureworks: [The Curious Case of Mia Ash: Fake Persona Lures Middle Eastern Targets](https://www.secureworks.com/research/the-curious-case-of-mia-ash)
-- **April 27, 2017** – Unit 42: [OilRig Actors Provide a Glimpse into Development and Testing Efforts](https://unit42.paloaltonetworks.com/oilrig-actors-provide-glimpse-development-testing-efforts/)
-- **March 31, 2017** – LogRhythm Labs: [OilRig Campaign Analysis](https://logrhythm.com/pdfs/labs-reports/logrhythm-labs-oilrig-campaign-report.pdf) (PDF)
-- **February 15, 2017** – Secureworks: [Iranian PupyRAT Bites Middle Eastern Organizations](https://www.secureworks.com/research/iranian-pupyrat-bites-middle-eastern-organizations)
-- **January 05, 2017** – ClearSky: [Iranian Threat Agent OilRig Delivers Digitally Signed Malware, Impersonates University of Oxford](https://www.clearskysec.com/oilrig/)
+- **December 15, 2017** – **Unit 42**: [Introducing the Adversary Playbook: First up, OilRig](https://unit42.paloaltonetworks.com/unit42-introducing-the-adversary-playbook-first-up-oilrig/)
+- **December 11, 2017** – **Unit 42**: [OilRig Performs Tests on the TwoFace Webshell](https://unit42.paloaltonetworks.com/unit42-oilrig-performs-tests-twoface-webshell/)
+- **December 07, 2017** – **FireEye**: [New Targeted Attack in the Middle East by APT34, a Suspected Iranian Threat Group, Using CVE-2017-11882 Exploit](https://cloud.google.com/blog/topics/threat-intelligence/targeted-attack-in-middle-east-by-apt34/)
+- **November 08, 2017** – **Unit 42**: [OilRig Deploys “ALMA Communicator” – DNS Tunneling Trojan](https://unit42.paloaltonetworks.com/unit42-oilrig-deploys-alma-communicator-dns-tunneling-trojan/)
+- **October 24, 2017** – **ClearSky**: [Iranian Threat Agent Greenbug Impersonates Israeli High-Tech and Cyber Security Companies](https://www.clearskysec.com/greenbug/)
+- **October 09, 2017** – **Unit 42**: [OilRig Group Steps Up Attacks with New Delivery Documents and New Injector Trojan](https://unit42.paloaltonetworks.com/unit42-oilrig-group-steps-attacks-new-delivery-documents-new-injector-trojan/)
+- **September 26, 2017** – **Unit 42**: [Striking Oil: A Closer Look at Adversary Infrastructure](https://unit42.paloaltonetworks.com/unit42-striking-oil-closer-look-adversary-infrastructure/)
+- **August 28, 2017** – **ClearSky**: [Recent ISMAgent Samples and Infrastructure by Iranian Threat Group GreenBug](https://www.clearskysec.com/ismagent/)
+- **July 27, 2017** – **Unit 42**: [OilRig Uses ISMDoor Variant; Possibly Linked to Greenbug Threat Group](https://unit42.paloaltonetworks.com/unit42-oilrig-uses-ismdoor-variant-possibly-linked-greenbug-threat-group/)
+- **July 27, 2017** – **Secureworks**: [The Curious Case of Mia Ash: Fake Persona Lures Middle Eastern Targets](https://www.secureworks.com/research/the-curious-case-of-mia-ash)
+- **April 27, 2017** – **Unit 42**: [OilRig Actors Provide a Glimpse into Development and Testing Efforts](https://unit42.paloaltonetworks.com/unit42-oilrig-actors-provide-glimpse-development-testing-efforts/)
+- **March 31, 2017** – **LogRhythm Labs**: [OilRig Campaign Analysis](https://www.content.shi.com/SHIcom/ContentAttachmentImages/SharedResources/PDFs/lr-041017-oilrig-report2.pdf) (PDF, TLP:WHITE)
+- **February 15, 2017** – **Secureworks**: [Iranian PupyRAT Bites Middle Eastern Organizations](https://www.secureworks.com/blog/iranian-pupyrat-bites-middle-eastern-organizations)
+- **January 05, 2017** – **ClearSky**: [Iranian Threat Agent OilRig Delivers Digitally Signed Malware, Impersonates University of Oxford](https://www.clearskysec.com/oilrig/)
 
 ### 2016
 
-- **October 04, 2016** – Unit 42: [OilRig Malware Campaign Updates Toolset and Expands Targets](https://unit42.paloaltonetworks.com/oilrig-malware-campaign-updates-toolset-expands-targets/)
-- **May 26, 2016** – Unit 42: [The OilRig Campaign: Attacks on Saudi Arabian Organizations Deliver Helminth Backdoor](https://unit42.paloaltonetworks.com/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/)
+- **October 04, 2016** – **Unit 42**: [OilRig Malware Campaign Updates Toolset and Expands Targets](https://unit42.paloaltonetworks.com/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/)
+- **May 26, 2016** – **Unit 42**: [The OilRig Campaign: Attacks on Saudi Arabian Organizations Deliver Helminth Backdoor](https://unit42.paloaltonetworks.com/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/)
 
 ### 2015
 
-- **October 07, 2015** – Secureworks: [Hacker Group Creates Network of Fake LinkedIn Profiles](https://www.secureworks.com/blog/general-hacker-group-creates-network-of-fake-linkedin-profiles)
-
+- **October 07, 2015** – **Secureworks**: [Hacker Group Creates Network of Fake LinkedIn Profiles](https://www.secureworks.com/research/suspected-iran-based-hacker-group-creates-network-of-fake-linkedin-profiles)

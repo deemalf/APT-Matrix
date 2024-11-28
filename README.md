@@ -52,4 +52,4 @@ While the current focus is on Middle Eastern APT groups, the goal is to incremen
 
 ## Acknowledgments
 
-Big thanks to the **Black Hat MEA 2024** community for the inspiration – and to **Ali, the GOAT,** for the awesome idea that started it all!
+Big thanks to **Ali, the GOAT,** for the awesome idea that started it all – and to the **Black Hat MEA 2024** community for the inspiration! 
