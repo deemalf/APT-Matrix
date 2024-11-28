@@ -4,9 +4,10 @@
 
 ## 1. Basic Information
 - **First Seen**: 2017
-- **Source Country**: Iran
+- **Source Country**: Islamic Republic of Iran
 - **Threat Actor Type**: Nation-State Sponsored
 - **Linked Organization**: Ministry of Intelligence and Security (MOIS)
+- **Objective**: Intelligence Gathering, Espionage, Information Theft
 
 ## 2. Description
 MuddyWater is a cyber espionage group assessed to be state-sponsored by Iran’s Ministry of Intelligence and Security (MOIS). Active since 2017, it predominantly targets Middle Eastern countries, employing a variety of TTPs to achieve intelligence gathering and espionage objectives.
@@ -34,7 +35,6 @@ MuddyWater is a cyber espionage group assessed to be state-sponsored by Iran’s
 ## 4. Targeting
 - **Targeted Countries**: Afghanistan, Armenia, Austria, Azerbaijan, Bahrain, Belarus, Egypt, Georgia, India, Iran, Israel, Jordan, Kuwait, Laos, Lebanon, Mali, Netherlands, Oman, Pakistan, Portugal, Qatar, Russia, Saudi Arabia, Sudan, Tajikistan, Tanzania, Thailand, Tunisia, Turkey, UAE, Ukraine, USA
 - **Targeted Sectors**: Aviation, Defense, Education, Energy, Financial, Food & Agriculture, Gaming, Government, Healthcare, High-Tech, IT, Media, NGOs, Oil & Gas, Shipping & Logistics, Telecommunications, Transportation
-- **Objective**: Intelligence Gathering, Espionage, Information Theft
 - **Motivation**: State-Sponsored
 
 ## 5. Tools Used
