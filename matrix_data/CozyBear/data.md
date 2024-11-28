@@ -1,3 +1,3 @@
 # Cozy Bear 
 
-*To be Added.a*
+*To be Added.*
